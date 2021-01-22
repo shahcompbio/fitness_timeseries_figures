@@ -1,0 +1,19 @@
+# SA906a
+
+SA906_p11a: 
+  id: SA906_p11a
+  series: SA906a-X11
+  timepoint: X11
+  treat: U11
+  label: X11
+  material: cell_line
+  tenx: SA906_p11a
+  
+SA906_p57a: 
+  id: SA906_p57a
+  series: SA906a-X57
+  timepoint: X57
+  treat: U57
+  label: X11
+  material: cell_line    
+  tenx: SA906_p57a

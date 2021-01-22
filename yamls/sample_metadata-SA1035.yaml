@@ -1,0 +1,118 @@
+# SA1035
+
+SA1035X4XB02879: 
+  id: SA1035X4XB02879
+  series: SA1035-X4-U
+  timepoint: X4
+  treat: U
+  label: X4-UnRx
+  material: pdx
+  tenx: SA1035X4XB02879
+  
+SA1035X5XB03021: 
+  id: SA1035X5XB03021
+  series: SA1035-X5-UU
+  timepoint: X5
+  treat: UU
+  label: X5-UnRx
+  material: pdx
+  tenx: SA1035X5XB03021  
+  
+SA1035X6XB03216: 
+  id: SA1035X6XB03216
+  series: SA1035-X6-UUU
+  timepoint: X6
+  treat: UUU
+  label: X6-UnRx
+  material: pdx
+  tenx: SA1035X6XB03216  
+  
+SA1035X7XB03502: 
+  id: SA1035X7XB03502
+  series: SA1035-X7-UUUU
+  timepoint: X7
+  treat: UUUU
+  label: X7-UnRx
+  material: pdx
+  tenx: SA1035X7XB03502  
+  
+SA1035X8XB03631: 
+  id: SA1035X8XB03631
+  series: SA1035-X8-UUUUU
+  timepoint: X8
+  treat: UUUUU
+  label: X8-UnRx
+  material: pdx
+  tenx: SA1035X8XB03631
+    
+  
+SA1035X5XB03015: 
+  id: SA1035X5XB03015
+  series: SA1035-X5-UT
+  timepoint: X5
+  treat: UT
+  label: X5-Rx
+  material: pdx    
+  tenx: SA1035X5XB03015
+    
+SA1035X6XB03211: 
+  id: SA1035X6XB03211
+  series: SA1035-X6-UTT
+  timepoint: X6
+  treat: UTT
+  label: X6-Rx
+  material: pdx
+  tenx: SA1035X6XB03211
+  
+SA1035X7XB03338: 
+  id: SA1035X7XB03338
+  series: SA1035-X7-UTTT
+  timepoint: X7
+  treat: UTTT
+  label: X7-Rx
+  material: pdx  
+  tenx: SA1035X7XB03338  
+  
+SA1035X8XB03425: 
+  id: SA1035X8XB03425
+  series: SA1035-X8-UTTTT
+  timepoint: X8
+  treat: UTTTT
+  label: X8-Rx
+  material: pdx
+  tenx: SA1035X8XB03425  
+  
+SA1035X6XB03209: 
+  id: SA1035X6XB03209
+  series: SA1035-X6-UTU
+  timepoint: X6
+  treat: UTU
+  label: X6-RxH
+  material: pdx  
+  tenx: SA1035X6XB03209
+
+  
+SA1035X7XB03340: 
+  id: SA1035X7XB03340
+  series: SA1035-X7-UTTU
+  timepoint: X7
+  treat: UTTU
+  label: X7-RxH
+  material: pdx
+  tenx: SA1035X7XB03340
+  
+
+  
+SA1035X8XB03420: 
+  id: SA1035X8XB03420
+  series: SA1035-X8-UTTTU
+  timepoint: X8
+  treat: UTTTU
+  label: X8-RxH
+  material: pdx
+  tenx: SA1035X8XB03420
+  
+
+  
+
+  

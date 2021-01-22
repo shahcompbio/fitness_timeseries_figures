@@ -1,0 +1,140 @@
+# SA609
+
+SA609X3XB01584:
+  id: SA609X3XB01584
+  series: SA609-X3-U
+  timepoint: X3
+  treat: U
+  label: X3-UnRx
+  material: pdx  
+  tenx: SA609X3XB01584
+  
+SA609X4XB03080:
+  id: SA609X4XB03080
+  series: SA609-X4-UU
+  timepoint: X4
+  treat: UU
+  label: X4-UnRx
+  material: pdx
+  tenx: SA609X4XB03080
+  
+SA609X5XB03223: 
+  id: SA609X5XB03223
+  series: SA609-X5-UUU
+  timepoint: X5
+  treat: UUU
+  label: X5-UnRx
+  material: pdx
+  tenx: SA609X5XB03223
+  
+SA609X6XB03447: 
+  id: SA609X6XB03447
+  series: SA609-X6-UUUU
+  timepoint: X6
+  treat: UUUU
+  label: X6-UnRx
+  material: pdx  
+  tenx: SA609X6XB03447
+  
+SA609X7XB03554: 
+  id: SA609X7XB03554
+  series: SA609-X7-UUUUU
+  timepoint: X7
+  treat: UUUUU
+  label: X7-UnRx
+  material: pdx    
+  tenx: SA609X7XB03554
+
+# treated
+SA609X4XB003083:
+  id: SA609X4XB003083
+  series: SA609-X4-UT
+  timepoint: X4
+  treat: UT
+  label: X4-Rx
+  material: pdx
+  tenx: SA609X4XB003083
+  
+SA609X4XB03084:
+  id: SA609X4XB03084
+  series: SA609-X4-UT
+  timepoint: X4
+  treat: UT
+  label: X4-Rx
+  material: pdx  
+  tenx: SA609X4XB03084
+  
+SA609X5XB03230:
+  id: SA609X5XB03230
+  series: SA609-X5-UTT
+  timepoint: X5
+  treat: UTT
+  label: X5-Rx
+  material: pdx
+  tenx: SA609X5XB03230
+  
+SA609X6XB03404:
+  id: SA609X6XB03404
+  series: SA609-X6-UTTT
+  timepoint: X6
+  treat: UTTT
+  label: X6-Rx
+  material: pdx
+  tenx: SA609X6XB03404
+  
+SA609X7XB03505:
+  id: SA609X7XB03505
+  series: SA609-X7-UTTTT
+  timepoint: X7
+  treat: UTTTT
+  label: X7-Rx
+  material: pdx  
+  tenx: SA609X7XB03505
+  
+SA609X7XB03573:
+  id: SA609X7XB03573
+  series: SA609-X7-UTTTT
+  timepoint: X7
+  treat: UTTTT
+  label: X7-Rx
+  material: pdx
+  tenx: SA609X7XB03573
+  
+# holiday
+SA609X5XB03231:
+  id: SA609X5XB03231
+  series: SA609-X5-UTU
+  timepoint: X5
+  treat: UTU
+  label: X5-RxH
+  material: pdx
+  tenx: SA609X5XB03231
+  
+SA609X5XB03235:
+  id: SA609X5XB03235
+  series: SA609-X5-UTU
+  timepoint: X5
+  treat: UTU
+  label: X5-RxH
+  material: pdx  
+  tenx: SA609X5XB03235
+  
+SA609X6XB03401:
+  id: SA609X6XB03401
+  series: SA609-X6-UTTU
+  timepoint: X6
+  treat: UTTU
+  label: X6-RxH
+  material: pdx  
+  tenx: SA609X6XB03401
+  
+SA609X7XB03510:
+  id: SA609X7XB03510
+  series: SA609-X7-UTTTU
+  timepoint: X7
+  treat: UTTTU
+  label: X7-RxH
+  material: pdx    
+  tenx: SA609X7XB03510
+  
+  

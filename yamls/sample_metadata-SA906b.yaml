@@ -1,0 +1,19 @@
+# SA906b
+
+SA906_p15b: 
+  id: SA906_p15b
+  series: SA906b-X15
+  timepoint: X15
+  treat: U15
+  label: X15
+  material: cell_line
+  tenx: SA906_p15b
+  
+SA906_p50b: 
+  id: SA906_p50b
+  series: SA906b-X50
+  timepoint: X50
+  treat: U50
+  label: X50
+  material: cell_line
+  tenx: SA906_p50b

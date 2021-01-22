@@ -1,0 +1,134 @@
+# SA535
+
+SA535X5XB02895: 
+  id: SA535X5XB02895
+  series: SA535-X5-UU
+  timepoint: X5
+  treat: UU
+  label: X5-UnRx
+  material: pdx
+  tenx: TENX048
+    
+SA535X6XB03099: 
+  id: SA535X6XB03099
+  series: SA535-X6-UUU
+  timepoint: X6
+  treat: UUU
+  label: X6-UnRx
+  material: pdx
+  tenx: SCRNA10X_SA_CHIP0146_006
+    
+SA535X7XB03448: 
+  id: SA535X7XB03448
+  series: SA535-X7-UUUU
+  timepoint: X7
+  treat: UUUU
+  label: X7-UnRx
+  material: pdx
+  tenx: SCRNA10X_SA_CHIP0189_001
+    
+SA535X8XB03664: 
+  id: SA535X8XB03664
+  series: SA535-X8-UUUUU
+  timepoint: X8
+  treat: UUUUU
+  label: X8-UnRx
+  material: pdx  
+  tenx: SCRNA10X_SA_CHIP0195_001
+  
+SA535X9XB03776: 
+  id: SA535X9XB03776
+  series: SA535-X9-UUUUUU
+  timepoint: X9
+  treat: UUUUUU
+  label: X9-UnRx
+  material: pdx      
+  tenx: SCRNA10X_SA_CHIP0208_002
+    
+    
+# treated with Cisplatin
+SA535X6XB03101: 
+  id: SA535X6XB03101
+  series: SA535-X6-UUT
+  timepoint: X6
+  treat: UUT
+  label: X6-Rx
+  material: pdx     
+  tenx: SCRNA10X_SA_CHIP0175_001
+  
+SA535X7XB03304: 
+  id: SA535X7XB03304
+  series: SA535-X7-UUTT
+  timepoint: X7
+  treat: UUTT
+  label: X7-Rx
+  material: pdx  
+  tenx: SCRNA10X_SA_CHIP0182_001
+  
+SA535X8XB03431: 
+  id: SA535X8XB03431
+  series: SA535-X8-UUTTT
+  timepoint: X8
+  treat: UUTTT
+  label: X8-Rx
+  material: pdx      
+  tenx: SCRNA10X_SA_CHIP0182_002
+    
+SA535X9XB03617: 
+  id: SA535X9XB03617
+  series: SA535-X9-UUTTTT
+  timepoint: X9
+  treat: UUTTTT
+  label: X9-Rx
+  material: pdx 
+  tenx: SCRNA10X_SA_CHIP0173_002
+  
+SA535X10XB03696: 
+  id: SA535X10XB03696
+  series: SA535-X10-UUTTTTT
+  timepoint: X10
+  treat: UUTTTTT
+  label: X10-Rx
+  material: pdx 
+  tenx: SCRNA10X_SA_CHIP0206_002
+    
+# Cisplatin vacation
+SA535X7XB03305: 
+  id: SA535X7XB03305
+  series: SA535-X7-UUTU
+  timepoint: X7
+  treat: UUTU
+  label: X7-RxH
+  material: pdx    
+  tenx: 
+  - SCRNA10X_SA_CHIP0184_001
+  - SCRNA10X_SA_CHIP0146_004  
+
+SA535X8XB03434: 
+  id: SA535X8XB03434
+  series: SA535-X8-UUTTU
+  timepoint: X8
+  treat: UUTTU
+  label: X8-RxH
+  material: pdx       
+  tenx: SCRNA10X_SA_CHIP0184_002
+
+SA535X9XB03616: 
+  id: SA535X9XB03616
+  series: SA535-X9-UUTTTU
+  timepoint: X9
+  treat: UUTTTU
+  label: X9-RxH
+  material: pdx 
+  tenx: SCRNA10X_SA_CHIP0173_001
+
+SA535X10XB03693: 
+  id: SA535X10XB03693
+  series: SA535-X10-UUTTTTU
+  timepoint: X10
+  treat: UUTTTTU
+  label: X10-RxH
+  material: pdx 
+  tenx: SCRNA10X_SA_CHIP0206_001
+     
+ 
